@@ -1,6 +1,7 @@
 ---
 title: hellow test1
 layout: default
+layout: posts
 ---
 
 Chapter Contents
