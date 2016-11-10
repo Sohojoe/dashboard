@@ -1,1 +1,1 @@
-https://github.io/Sohojoe/dashboard
+https://Sohojoe.github.io/dashboard
